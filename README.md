@@ -1,2 +1,2 @@
 # Megablog
-Blog del curso de git y github en platzi
+Repositorio de prueba para el curso de Git y Github de platzi
